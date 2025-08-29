@@ -1,9 +1,12 @@
 # account_manager.py
 
-# Placeholder for account management functions
-def get_client():
+from telethon import TelegramClient
+from telethon.sessions import StringSession
+
+async def get_client(session_string: str, api_id: int, api_hash: str) -> TelegramClient:
     """
-    This function should return a Telegram client instance.
-    Implement the actual client initialization here.
+    Initializes and returns a TelegramClient instance from a session string.
     """
-    raise NotImplementedError("get_client function is not implemented yet.")
+    client = TelegramClient(StringSession(session_string), api_id, api_hash)
+    await client.connect()
+    return client
