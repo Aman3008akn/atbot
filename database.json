@@ -1,0 +1,638 @@
+{
+    "8145805918": {
+        "username": "jeieieuwb",
+        "logs": [
+            "[2025-08-29 14:20:41] Started the bot.",
+            "[2025-08-29 14:21:21] Started the bot.",
+            "[2025-08-29 14:23:24] Started the bot.",
+            "[2025-08-29 14:24:09] Started the bot.",
+            "[2025-08-29 14:31:17] Started the bot.",
+            "[2025-08-29 14:32:25] Started the bot.",
+            "[2025-08-29 14:33:52] Started the bot.",
+            "[2025-08-29 14:33:58] Agreed to terms and joined channel.",
+            "[2025-08-29 14:35:39] Started the bot.",
+            "[2025-08-29 14:36:22] Successfully added new account: account_1.",
+            "[2025-08-29 14:36:29] Set ad source to 'Saved Messages'.",
+            "[2025-08-29 14:36:51] Set ad source to 'Saved Messages'.",
+            "[2025-08-29 14:39:13] Upgraded to Premium by admin.",
+            "[2025-08-29 14:39:58] Started the bot.",
+            "[2025-08-29 14:40:05] Set forward delay to 2 seconds.",
+            "[2025-08-29 14:40:11] Detected 71 groups.",
+            "[2025-08-29 14:40:14] Toggled AdBot status to ON.",
+            "[2025-08-29 14:54:50] Started the bot.",
+            "[2025-08-29 14:54:52] Toggled AdBot status to OFF.",
+            "[2025-08-29 14:54:54] Toggled AdBot status to ON."
+        ],
+        "is_banned": false,
+        "adbot_status": true,
+        "forward_delay": 2,
+        "saved_message": {
+            "source": "saved_messages"
+        },
+        "accounts": {
+            "account_1": "1BVtsOJoBu4tvqlR-iEzOupY3ORAqibQSoEHPdgZs_JwiGM47eBKWTwNBPSIMYr9tjNJiAkflUW6-F1ry4ZappgbvEFXXNn98PxlShOO0GhWDNjlQI3sZV_iX9MWN5SUtjd07IuDoSCR_bK3N1lEi7_XJXI-IuEgEhRV5J5QHiH48vTpSjYrvcMSm57FhGSMt_GDjcD8tKKwflLcZ19OgJ41bV6EXXWuMO9hlTqLuHfyF13QxvjsTIDtQwwYLhCL1FLPtr1QBJk8K6ovuiIJZ5OSDFnrCj3BcQa3WvrdLRtc5f2a1ymbAKeJdm6R92uVIg409LRuF2Ez_nhmeAtJT_FZ097r13RQ="
+        },
+        "state": null,
+        "has_agreed": true,
+        "is_premium": true,
+        "start_time": null,
+        "stop_time": null,
+        "temp_phone_number": null,
+        "temp_phone_code_hash": null,
+        "temp_otp_digits": ""
+    },
+    "1234567890": {
+        "username": null,
+        "logs": [
+            "[2025-08-29 14:38:45] Downgraded to regular user by admin.",
+            "[2025-08-29 14:38:57] Upgraded to Premium by admin."
+        ],
+        "is_banned": false,
+        "adbot_status": false,
+        "forward_delay": 5,
+        "saved_message": null,
+        "accounts": {},
+        "state": null,
+        "has_agreed": false,
+        "is_premium": true,
+        "start_time": null,
+        "stop_time": null,
+        "temp_phone_number": null,
+        "temp_phone_code_hash": null,
+        "temp_otp_digits": ""
+    },
+    "8474063183": {
+        "username": "developerbotsss",
+        "logs": [
+            "[2025-08-29 14:41:36] Started the bot.",
+            "[2025-08-29 14:41:39] Agreed to terms and joined channel.",
+            "[2025-08-29 14:41:42] Set ad source to 'Saved Messages'.",
+            "[2025-08-29 14:42:16] Successfully added new account: account_1.",
+            "[2025-08-29 14:42:23] Set ad source to 'Saved Messages'.",
+            "[2025-08-29 14:42:27] Set forward delay to 5 seconds.",
+            "[2025-08-29 14:42:29] Toggled AdBot status to ON.",
+            "[2025-08-29 20:11:06] Started the bot.",
+            "[2025-08-29 20:11:08] Toggled AdBot status to OFF.",
+            "[2025-08-29 20:15:22] Started the bot.",
+            "[2025-08-29 20:15:29] Toggled AdBot status to ON.",
+            "[2025-08-29 20:15:34] Set ad source to 'Saved Messages'.",
+            "[2025-08-29 20:15:35] Toggled AdBot status to ON.",
+            "[2025-08-29 20:15:40] Removed account: account_1.",
+            "[2025-08-29 20:16:14] Successfully added new account: account_1.",
+            "[2025-08-29 20:16:18] Toggled AdBot status to ON."
+        ],
+        "is_banned": false,
+        "adbot_status": true,
+        "forward_delay": 5,
+        "saved_message": {
+            "source": "saved_messages"
+        },
+        "accounts": {
+            "account_1": "1BVtsOJQBu2DiFnOJV_clyG3P0G5q6APCBLxeis4wY2XSISodWVGfMrbiM1tjHqMZDzBrBxY9sMGX9BTKoxuhQ9bZSe-X73dpnD_NPQig9Y-QeFVFeyYnYeF3A6LWcM5E893pwxjqBZcGrskO-U6g40F5nKIk4cxJV0We8SHYN72dhCscQzy33kyDnsi8K1xE4wpAaYa7o7yWnveJ1eHJBoynobuX4JEfiCZ8RcW3kBoCnk5wGWXGZpaa39qLve-KfP34eJl5nv7csMhkYZ4gXd6PQNon8CKu7Cjk3ZBaO3KNz45eQU-IvfuS2aNPcQrfRyAag3eIySqz9frufD3N1tFSpchRQm0="
+        },
+        "state": null,
+        "has_agreed": true,
+        "is_premium": false,
+        "start_time": null,
+        "stop_time": null,
+        "temp_phone_number": null,
+        "temp_phone_code_hash": null,
+        "temp_otp_digits": ""
+    },
+    "6519674007": {
+        "username": "Zellermxxbczsr",
+        "logs": [
+            "[2025-08-29 14:43:54] Started the bot.",
+            "[2025-08-29 14:44:14] Agreed to terms and joined channel.",
+            "[2025-08-29 14:45:21] Successfully added new account: account_1.",
+            "[2025-08-29 14:46:08] Started the bot.",
+            "[2025-08-29 14:46:15] Set ad source to 'Saved Messages'.",
+            "[2025-08-29 14:48:05] Started the bot.",
+            "[2025-08-29 14:48:22] Detected 437 groups.",
+            "[2025-08-29 14:48:29] Toggled AdBot status to ON.",
+            "[2025-08-29 14:49:05] Toggled AdBot status to OFF."
+        ],
+        "is_banned": false,
+        "adbot_status": false,
+        "forward_delay": 5,
+        "saved_message": {
+            "source": "saved_messages"
+        },
+        "accounts": {
+            "account_1": "1BVtsOJoBu7l8WW_ZLROa82KI5rqnppUe5Jnzij9DmDJYIVN7yGvmDNApuuAjLA4jgk6Dy2aP6YkCYGCO_lBJJvZQ46jirALf0xifqYIgJfe3wo6aqOuq7m6UMMKi5QIoP-ZwiPv9dpbpwziFHdu2UmC8sSyBCwQ7wRQpMky52TpyS0bU2szmDeoKOjrLJNntim3fu0VtgBo5hkSC0YIS4wzwkwnJnaln5ajbnBShrImhUvGtKKcyuo0_DLq0srFrgWNjnIOi-gyNgQmmBdWfTaxThUcAxLi--VyPwxOakUSv_u4UA7xAi09TmezSEFDm3gfv49IrKTHF1l-B3rXPdZKQQrXYj6E="
+        },
+        "state": null,
+        "has_agreed": true,
+        "is_premium": false,
+        "start_time": null,
+        "stop_time": null,
+        "temp_phone_number": null,
+        "temp_phone_code_hash": null,
+        "temp_otp_digits": ""
+    },
+    "6055018254": {
+        "username": "Starxxst",
+        "logs": [
+            "[2025-08-29 14:52:25] Started the bot.",
+            "[2025-08-29 14:53:56] Agreed to terms and joined channel."
+        ],
+        "is_banned": false,
+        "adbot_status": false,
+        "forward_delay": 5,
+        "saved_message": null,
+        "accounts": {},
+        "state": null,
+        "has_agreed": true,
+        "is_premium": false,
+        "start_time": null,
+        "stop_time": null,
+        "temp_phone_number": null,
+        "temp_phone_code_hash": null,
+        "temp_otp_digits": ""
+    },
+    "93266808": {
+        "username": null,
+        "logs": [
+            "[2025-08-29 14:53:19] Started the bot."
+        ],
+        "is_banned": false,
+        "adbot_status": false,
+        "forward_delay": 5,
+        "saved_message": null,
+        "accounts": {},
+        "state": null,
+        "has_agreed": false,
+        "is_premium": false,
+        "start_time": null,
+        "stop_time": null,
+        "temp_phone_number": null,
+        "temp_phone_code_hash": null,
+        "temp_otp_digits": ""
+    },
+    "7457807904": {
+        "username": "nkhl_07",
+        "logs": [
+            "[2025-08-29 14:55:15] Started the bot."
+        ],
+        "is_banned": false,
+        "adbot_status": false,
+        "forward_delay": 5,
+        "saved_message": null,
+        "accounts": {},
+        "state": null,
+        "has_agreed": false,
+        "is_premium": false,
+        "start_time": null,
+        "stop_time": null,
+        "temp_phone_number": null,
+        "temp_phone_code_hash": null,
+        "temp_otp_digits": ""
+    },
+    "7216502845": {
+        "username": null,
+        "logs": [],
+        "is_banned": false,
+        "adbot_status": false,
+        "forward_delay": 5,
+        "saved_message": null,
+        "accounts": {},
+        "state": null,
+        "has_agreed": false,
+        "is_premium": false,
+        "start_time": null,
+        "stop_time": null,
+        "temp_phone_number": null,
+        "temp_phone_code_hash": null,
+        "temp_otp_digits": ""
+    },
+    "5415037927": {
+        "username": "CardingVisaMastercard",
+        "logs": [
+            "[2025-08-29 14:56:59] Started the bot.",
+            "[2025-08-29 14:57:05] Agreed to terms and joined channel.",
+            "[2025-08-29 14:58:15] Successfully added new account: account_1.",
+            "[2025-08-29 14:58:30] Started the bot.",
+            "[2025-08-29 14:58:39] Set ad source to 'Saved Messages'.",
+            "[2025-08-29 14:58:43] Detected 69 groups.",
+            "[2025-08-29 14:58:47] Set forward delay to 10 seconds.",
+            "[2025-08-29 14:58:50] Set forward delay to 5 seconds.",
+            "[2025-08-29 14:58:51] Toggled AdBot status to ON."
+        ],
+        "is_banned": false,
+        "adbot_status": true,
+        "forward_delay": 5,
+        "saved_message": {
+            "source": "saved_messages"
+        },
+        "accounts": {
+            "account_1": "1BVtsOJoBuzxKR17k1YazF8Nv8RFSiTwla9e1DTpKb152W1mdGZhXLqqVhVOwInw0y05UNFnBSwrk05hdwWMAIgZ7C80Rq22drwH6P33CWmMJUR-S5Ui2u7ifevRRutf3zp9DTnyFnLElPORneHx3jKb4ZbAMe2bBfMrA1_baZF-GNMfX6X0U-WHPHtKpHeov1sZ3bqfUiWkm2gYkPT49xDkeKoLPmaUZWMlAGPDn5wmoVxepoRGYHCZnxJmX2q45MLNFTnp9Mlpx9cm3LoDpFwxvJ_onw6iLI0dUS0HtAAQhN_z6I3G5G7bRSAkDt0QvtSspyKd03oBcvDrhs5OHpm1-5Tb2IDg="
+        },
+        "state": null,
+        "has_agreed": true,
+        "is_premium": false,
+        "start_time": null,
+        "stop_time": null,
+        "temp_phone_number": null,
+        "temp_phone_code_hash": null,
+        "temp_otp_digits": ""
+    },
+    "8194444299": {
+        "username": "HeistKingBerlin",
+        "logs": [
+            "[2025-08-29 14:57:15] Started the bot."
+        ],
+        "is_banned": false,
+        "adbot_status": false,
+        "forward_delay": 5,
+        "saved_message": null,
+        "accounts": {},
+        "state": null,
+        "has_agreed": false,
+        "is_premium": false,
+        "start_time": null,
+        "stop_time": null,
+        "temp_phone_number": null,
+        "temp_phone_code_hash": null,
+        "temp_otp_digits": ""
+    },
+    "5137077514": {
+        "username": "ESCROWMEN",
+        "logs": [
+            "[2025-08-29 14:57:17] Started the bot.",
+            "[2025-08-29 14:57:32] Agreed to terms and joined channel.",
+            "[2025-08-29 14:57:37] Toggled AdBot status to ON.",
+            "[2025-08-29 15:28:42] Banned by admin."
+        ],
+        "is_banned": true,
+        "adbot_status": false,
+        "forward_delay": 5,
+        "saved_message": null,
+        "accounts": {},
+        "state": null,
+        "has_agreed": true,
+        "is_premium": false,
+        "start_time": null,
+        "stop_time": null,
+        "temp_phone_number": null,
+        "temp_phone_code_hash": null,
+        "temp_otp_digits": ""
+    },
+    "6028167199": {
+        "username": "DORAI_EXPLOO",
+        "logs": [
+            "[2025-08-29 15:04:52] Started the bot.",
+            "[2025-08-29 15:05:08] Agreed to terms and joined channel.",
+            "[2025-08-29 15:06:15] Successfully added new account: account_1.",
+            "[2025-08-29 15:06:17] Started the bot.",
+            "[2025-08-29 15:06:18] Started the bot.",
+            "[2025-08-29 15:06:25] Set ad source to 'Saved Messages'.",
+            "[2025-08-29 15:08:04] Set ad source to 'Saved Messages'.",
+            "[2025-08-29 15:08:08] Set forward delay to 5 seconds.",
+            "[2025-08-29 15:09:00] Upgraded to Premium by admin.",
+            "[2025-08-29 15:09:19] Downgraded to regular user by admin.",
+            "[2025-08-29 15:09:27] Upgraded to Premium by admin.",
+            "[2025-08-29 15:09:32] Started the bot.",
+            "[2025-08-29 15:10:38] Set start time to 15:10 UTC.",
+            "[2025-08-29 15:10:53] Set stop time to 18:00 UTC.",
+            "[2025-08-29 15:11:00] Set forward delay to 2 seconds.",
+            "[2025-08-29 15:11:06] Detected 52 groups.",
+            "[2025-08-29 15:11:10] Toggled AdBot status to ON.",
+            "[2025-08-29 15:12:02] Started the bot.",
+            "[2025-08-29 15:12:03] Toggled AdBot status to OFF.",
+            "[2025-08-29 15:12:05] Toggled AdBot status to ON.",
+            "[2025-08-29 15:13:40] Started the bot.",
+            "[2025-08-29 15:13:43] Cleared schedule.",
+            "[2025-08-29 15:13:47] Started the bot.",
+            "[2025-08-29 15:13:48] Toggled AdBot status to OFF.",
+            "[2025-08-29 15:13:50] Toggled AdBot status to ON."
+        ],
+        "is_banned": false,
+        "adbot_status": true,
+        "forward_delay": 2,
+        "saved_message": {
+            "source": "saved_messages"
+        },
+        "accounts": {
+            "account_1": "1BVtsOJoBu0K5aRm_i3mDKhtO4ka4b77zluf0IjJwkXJjD2x1ms1yHKqsnYq6VUhBi2n1N1UL-ncxxmzFR2ezsOMNsFwI6MTs3mhthWdSPIIveyYCnDllzjH_noUuAuLJ6L5WLOkns7z0W2dYnAqmu8hB2Mt6hwOdQBzLAOxCBJsD86xUK4GDYNqCjzY5mw8kCZcE4UZ_hf4HZw-tEvvNOsWgTTJ1m_ug7ACBzFF7YvqfSDgUWfHlmPrViBa-R5Vvbx57_irItGXQTJzOfxXP_0CZBCnPuFmVvntiO4k0eq_wBtxym-SSD0xU5xPg6mUkGrtHnuvawntW24Jzbi15en00ABRTJIU="
+        },
+        "state": null,
+        "has_agreed": true,
+        "is_premium": true,
+        "start_time": null,
+        "stop_time": null,
+        "temp_phone_number": null,
+        "temp_phone_code_hash": null,
+        "temp_otp_digits": ""
+    },
+    "-1003011891418": {
+        "username": null,
+        "logs": [],
+        "is_banned": false,
+        "adbot_status": false,
+        "forward_delay": 5,
+        "saved_message": null,
+        "accounts": {},
+        "state": null,
+        "has_agreed": false,
+        "is_premium": false,
+        "start_time": null,
+        "stop_time": null,
+        "temp_phone_number": null,
+        "temp_phone_code_hash": null,
+        "temp_otp_digits": ""
+    },
+    "7089574265": {
+        "username": "axcne",
+        "logs": [
+            "[2025-08-29 15:21:31] Started the bot.",
+            "[2025-08-29 15:21:41] Agreed to terms and joined channel."
+        ],
+        "is_banned": false,
+        "adbot_status": false,
+        "forward_delay": 5,
+        "saved_message": null,
+        "accounts": {},
+        "state": null,
+        "has_agreed": true,
+        "is_premium": false,
+        "start_time": null,
+        "stop_time": null,
+        "temp_phone_number": null,
+        "temp_phone_code_hash": null,
+        "temp_otp_digits": ""
+    },
+    "7019704680": {
+        "username": "lvanimeexx",
+        "logs": [
+            "[2025-08-29 15:22:42] Started the bot.",
+            "[2025-08-29 15:22:58] Agreed to terms and joined channel.",
+            "[2025-08-29 15:24:19] Successfully added new account: account_1.",
+            "[2025-08-29 15:24:28] Detected 226 groups.",
+            "[2025-08-29 15:24:33] Set ad source to 'Saved Messages'.",
+            "[2025-08-29 15:24:39] Set forward delay to 10 seconds.",
+            "[2025-08-29 15:24:42] Toggled AdBot status to ON.",
+            "[2025-08-29 15:25:31] Toggled AdBot status to OFF.",
+            "[2025-08-29 15:25:56] Banned by admin.",
+            "[2025-08-29 15:27:17] Unbanned by admin.",
+            "[2025-08-29 15:27:33] Upgraded to Premium by admin.",
+            "[2025-08-29 15:28:08] Banned by admin.",
+            "[2025-08-29 15:39:57] Unbanned by admin.",
+            "[2025-08-29 15:40:22] Started the bot."
+        ],
+        "is_banned": false,
+        "adbot_status": false,
+        "forward_delay": 10,
+        "saved_message": {
+            "source": "saved_messages"
+        },
+        "accounts": {
+            "account_1": "1BJWap1wBu3WgLbjGIkMhjmh42_zfd7Kqk3nW91Rl0QYNqNNx2wDNFLwO2RKLdBQ6rIJqIKpUaGWgvVmb-uzSXZgKyhy6LjEOVVxfjD_tsY5OTq86vfM0Ow2kx0xYzSbVNrEmtw7qI6qryeaUqnNCqvWyU_uT1wDcAsXx998hELIZX887uBt3AP3hENcTiBnZEIM9OV3WYL1ljEJy3RDilMuS4aGCOGJvovhS_fJ8O3wxsS1WKzzUJzTcig105FKhsL4ZN_RYZKgumH8g3PSDxIuYnPXde61VeinnFJXHGbMVEk345H17pM2aUORi85GUc0oVMuIGgqb3MsMChRmcClRtlIo04Dc="
+        },
+        "state": null,
+        "has_agreed": true,
+        "is_premium": true,
+        "start_time": null,
+        "stop_time": null,
+        "temp_phone_number": null,
+        "temp_phone_code_hash": null,
+        "temp_otp_digits": ""
+    },
+    "6342701213": {
+        "username": null,
+        "logs": [
+            "[2025-08-29 15:39:08] Banned by admin.",
+            "[2025-08-29 15:39:18] Unbanned by admin.",
+            "[2025-08-29 15:39:26] Unbanned by admin."
+        ],
+        "is_banned": false,
+        "adbot_status": false,
+        "forward_delay": 5,
+        "saved_message": null,
+        "accounts": {},
+        "state": null,
+        "has_agreed": false,
+        "is_premium": false,
+        "start_time": null,
+        "stop_time": null,
+        "temp_phone_number": null,
+        "temp_phone_code_hash": null,
+        "temp_otp_digits": ""
+    },
+    "691486124": {
+        "username": "RareMonster",
+        "logs": [
+            "[2025-08-29 15:43:44] Started the bot."
+        ],
+        "is_banned": false,
+        "adbot_status": false,
+        "forward_delay": 5,
+        "saved_message": null,
+        "accounts": {},
+        "state": null,
+        "has_agreed": false,
+        "is_premium": false,
+        "start_time": null,
+        "stop_time": null,
+        "temp_phone_number": null,
+        "temp_phone_code_hash": null,
+        "temp_otp_digits": ""
+    },
+    "8007235104": {
+        "username": null,
+        "logs": [
+            "[2025-08-29 16:03:05] Started the bot.",
+            "[2025-08-29 16:03:13] Agreed to terms and joined channel.",
+            "[2025-08-29 16:03:16] Set ad source to 'Saved Messages'.",
+            "[2025-08-29 16:04:02] Successfully added new account: account_1."
+        ],
+        "is_banned": false,
+        "adbot_status": false,
+        "forward_delay": 5,
+        "saved_message": {
+            "source": "saved_messages"
+        },
+        "accounts": {
+            "account_1": "1AZWarzMBu1vHGD3lNAr7b0Bw4cKQCLvsfBlfajoNL6M-rHKqgDVg_VUKp8AEv9w_cP9jy4R4I3DtCyF9BCyZiKXG8ljUg5Z_HICxy3FpCJ-z_TEVsPMwF-4dFjrjYqo3ek6ERg-MudVLOi210kKnBrgSdMCLOlxtakqjCuOe3GtFHEyPTLIhCwBADWe9m8RTVVOUPKPcPZgSn9AWR3PgJquu0qz4fYnlx7bdO_xkFKuX9DagukhaY6ZwFgVAhQ-qToaJf9Wzk94BunXpXf8g6HRAjZtcXAq8TNGeUABAHtH2G5UXe6fWO-W2ON6TwOfCV1JpYrBPOrI_OhlkiPOSheKk9oM-tq0="
+        },
+        "state": null,
+        "has_agreed": true,
+        "is_premium": false,
+        "start_time": null,
+        "stop_time": null,
+        "temp_phone_number": null,
+        "temp_phone_code_hash": null,
+        "temp_otp_digits": ""
+    },
+    "8335263907": {
+        "username": "nami_swwan",
+        "logs": [
+            "[2025-08-29 16:09:26] Started the bot."
+        ],
+        "is_banned": false,
+        "adbot_status": false,
+        "forward_delay": 5,
+        "saved_message": null,
+        "accounts": {},
+        "state": null,
+        "has_agreed": false,
+        "is_premium": false,
+        "start_time": null,
+        "stop_time": null,
+        "temp_phone_number": null,
+        "temp_phone_code_hash": null,
+        "temp_otp_digits": ""
+    },
+    "7579258090": {
+        "username": "rexyxjod",
+        "logs": [
+            "[2025-08-29 17:54:03] Started the bot.",
+            "[2025-08-29 17:54:11] Agreed to terms and joined channel."
+        ],
+        "is_banned": false,
+        "adbot_status": false,
+        "forward_delay": 5,
+        "saved_message": null,
+        "accounts": {},
+        "state": null,
+        "has_agreed": true,
+        "is_premium": false,
+        "start_time": null,
+        "stop_time": null,
+        "temp_phone_number": null,
+        "temp_phone_code_hash": null,
+        "temp_otp_digits": ""
+    },
+    "6060175377": {
+        "username": "Sahiljdhv",
+        "logs": [
+            "[2025-08-29 18:51:25] Started the bot.",
+            "[2025-08-29 18:51:33] Agreed to terms and joined channel.",
+            "[2025-08-29 18:51:47] Set ad source to 'Saved Messages'."
+        ],
+        "is_banned": false,
+        "adbot_status": false,
+        "forward_delay": 5,
+        "saved_message": {
+            "source": "saved_messages"
+        },
+        "accounts": {},
+        "state": null,
+        "has_agreed": true,
+        "is_premium": false,
+        "start_time": null,
+        "stop_time": null,
+        "temp_phone_number": null,
+        "temp_phone_code_hash": null,
+        "temp_otp_digits": ""
+    },
+    "8038819413": {
+        "username": "Zen0nZogratis",
+        "logs": [
+            "[2025-08-29 19:54:30] Started the bot.",
+            "[2025-08-29 19:54:46] Agreed to terms and joined channel."
+        ],
+        "is_banned": false,
+        "adbot_status": false,
+        "forward_delay": 5,
+        "saved_message": null,
+        "accounts": {},
+        "state": "waiting_for_otp",
+        "has_agreed": true,
+        "is_premium": false,
+        "start_time": null,
+        "stop_time": null,
+        "temp_phone_number": "+918867563256",
+        "temp_phone_code_hash": "6191f2b7cfa105536e",
+        "temp_otp_digits": ""
+    },
+    "8131945211": {
+        "username": "Cashlinkexchange",
+        "logs": [
+            "[2025-08-29 19:56:44] Started the bot.",
+            "[2025-08-29 19:57:32] Agreed to terms and joined channel."
+        ],
+        "is_banned": false,
+        "adbot_status": false,
+        "forward_delay": 5,
+        "saved_message": null,
+        "accounts": {},
+        "state": null,
+        "has_agreed": true,
+        "is_premium": false,
+        "start_time": null,
+        "stop_time": null,
+        "temp_phone_number": null,
+        "temp_phone_code_hash": null,
+        "temp_otp_digits": ""
+    },
+    "869004896": {
+        "username": "Cashlinkadmin",
+        "logs": [
+            "[2025-08-29 19:58:17] Started the bot.",
+            "[2025-08-29 20:02:22] Agreed to terms and joined channel.",
+            "[2025-08-29 20:02:29] Set ad source to 'Saved Messages'.",
+            "[2025-08-29 20:04:32] Started the bot.",
+            "[2025-08-29 20:05:46] Successfully added new account: account_1.",
+            "[2025-08-29 20:06:23] Detected 2 groups.",
+            "[2025-08-29 20:11:22] Set forward delay to 30 seconds.",
+            "[2025-08-29 20:12:19] Set forward delay to 30 seconds.",
+            "[2025-08-29 20:15:28] Set ad source to 'Saved Messages'.",
+            "[2025-08-29 20:15:54] Set forward delay to 30 seconds.",
+            "[2025-08-29 20:16:09] Removed account: account_1.",
+            "[2025-08-29 20:16:43] Successfully added new account: account_1.",
+            "[2025-08-29 20:17:00] Detected 5 groups.",
+            "[2025-08-29 20:17:05] Toggled AdBot status to ON.",
+            "[2025-08-29 20:21:43] Detected 4 groups.",
+            "[2025-08-29 20:26:27] Toggled AdBot status to OFF.",
+            "[2025-08-29 20:26:44] Detected 8 groups.",
+            "[2025-08-29 20:27:35] Toggled AdBot status to ON.",
+            "[2025-08-29 20:33:18] Toggled AdBot status to OFF."
+        ],
+        "is_banned": false,
+        "adbot_status": false,
+        "forward_delay": 30,
+        "saved_message": {
+            "source": "saved_messages"
+        },
+        "accounts": {
+            "account_1": "1AZWarzoBu06mQDAm9U7EfH0ZiiUtiXlLN-82lwfwyJLN-TogYYmWiob4y80qhAdRzcZxhmBzOTBPn8CFGlAODAyrovCGI0ry1JJW1e53s8nvZhckHhsyvInABr_7araETm61LUeYpZp341DY5lgEnhwbP3kJOX_XWPdiKX8smJ4l9ikggpzvyh6AJAmJFweX_klUaylrDsNlCkBBz9ae9oELQcwaA9ccI-h_V5sGvJFFnejA32xZmImQ0DPwyueqhvotzI3ATh03-BFIBBekHXrvJKTeKMiKIG1T9H9f11Q-CxtArlLJxq80nvCueFkQldfP86nbpz-kUoUPtwfRZJUug5S9-X0="
+        },
+        "state": null,
+        "has_agreed": true,
+        "is_premium": false,
+        "start_time": null,
+        "stop_time": null,
+        "temp_phone_number": null,
+        "temp_phone_code_hash": null,
+        "temp_otp_digits": ""
+    },
+    "5466072443": {
+        "username": "IndiaBiggestEscrowBot",
+        "logs": [
+            "[2025-08-29 20:43:14] Started the bot.",
+            "[2025-08-29 20:43:37] Agreed to terms and joined channel.",
+            "[2025-08-29 20:44:27] Successfully added new account: account_1.",
+            "[2025-08-29 20:44:40] Detected 471 groups.",
+            "[2025-08-29 20:44:52] Set ad source to 'Saved Messages'.",
+            "[2025-08-29 20:44:55] Set forward delay to 5 seconds.",
+            "[2025-08-29 20:44:57] Toggled AdBot status to ON."
+        ],
+        "is_banned": false,
+        "adbot_status": true,
+        "forward_delay": 5,
+        "saved_message": {
+            "source": "saved_messages"
+        },
+        "accounts": {
+            "account_1": "1BVtsOJQBuzBw8TQvD-Iw-zJov4QZs98gXcu7_jOY4MAvDw4V5enVZv2jMBCa8Aq7T71Apu6UTK1v-jY5lzqjosToROtXVE-N9pRuU_kYBW8yWIXvaS5mSFa8U9GsGgmbkrYNzQjG_IMIpEx8tE72XScx0SAWezFc6F35C8EfsTgMmDMu-sbYt4iP_xjcscFaee3wV5RXZOm5wA9wPsjHLasqODexGwHWlefHzt9VBXD2HBaEE6OILEvbIuIwoudS5Iyr5biapE_xO8sFd4gfMwJQ211P2nPbgOT4fvq_VqXPTseZevL7cdb16DhKchfxLrLm_CSN2JzrFiZaxDojTCGYFhUjQto="
+        },
+        "state": null,
+        "has_agreed": true,
+        "is_premium": false,
+        "start_time": null,
+        "stop_time": null,
+        "temp_phone_number": null,
+        "temp_phone_code_hash": null,
+        "temp_otp_digits": ""
+    }
+}
